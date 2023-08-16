@@ -1,0 +1,1 @@
+let myarr=["huu", "hỏi mạnh thường quân", "hỏi đi đừng ngại", 25]
